@@ -1,0 +1,32 @@
+# 🏋️ Fitness Project
+
+## 📌 Overview
+This project aims to build a data-driven model to predict whether a person is fit or not based on health and lifestyle features such as age, height, weight, heart rate, blood pressure, sleep hours, nutrition quality, and activity level.
+
+---
+
+## ⚙️ Tasks Completed
+- **Data preprocessing and cleaning** to handle missing values and correct column formats.  
+- **Exploratory Data Analysis (EDA)** to identify patterns and relationships between health features and fitness level.  
+- **Applied Machine Learning models** including:  
+  - Logistic Regression  
+  - Decision Trees  
+  - Random Forests  
+- **Model evaluation** using performance metrics (Accuracy, Recall, F1-Score).  
+- **Built an interactive Streamlit app** where users can input their data and get predictions instantly.  
+
+---
+
+## 📊 Tools and Technologies
+- Programming Language: **Python**  
+- Data Analysis: **Pandas, NumPy**  
+- Visualization: **Matplotlib, Seaborn**  
+- Machine Learning: **Scikit-learn**  
+- Deployment: **Streamlit**  
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone <repository-link>
