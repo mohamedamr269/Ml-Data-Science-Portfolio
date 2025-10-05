@@ -62,10 +62,6 @@ The final model was selected based on performance metrics such as:
 - Visualized insights into factors influencing insurance prices.
 - Clean, modular, and well-documented codebase for scalability.
 
----
-
-## 🖼️ Example Output (Gradio App)
-Users can input data such as **age**, **BMI**, **smoker/non-smoker**, and **region**, then instantly receive a predicted **insurance cost estimate**.
 
 ---
 
@@ -76,6 +72,3 @@ Users can input data such as **age**, **BMI**, **smoker/non-smoker**, and **regi
 | Random Forest | 0.87 | 2600 | 3900 |
 | XGBoost | **0.89** | **2400** | **3600** |
 
----
-
-## 🗂️ Project Structure
