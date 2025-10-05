@@ -42,5 +42,5 @@ The workflow involves:
 
 ---
 
-## 📂 Project Structure
+
 
