@@ -180,7 +180,7 @@ In-depth analysis of fitness and health data to uncover trends, correlations, an
 
 **Technologies:** Python, scikit-learn, Streamlit, Pandas, MLOps
 
-📂 [View Project](./Heart%20Attack%20Prediction) | 📖 [README](./Heart%20Attack%20Prediction/README.md) | 📊 [MLOps Report](./Heart%20Attack%20Prediction/MLOps_Report.md)
+📂 [View Project](./Heart-Attack-Prediction) | 📖 [README](./Heart-Attack-Prediction/README.md) | 📊 [MLOps Report](./Heart-Attack-Prediction/MLOps_Report.md)
 
 ---
 
